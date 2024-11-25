@@ -223,3 +223,24 @@
     <p>Dagens spesialtilbud: 20% rabatt på alle pizzaretter!</p>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback</title>
+</head>
+<body>
+    <header>
+        <h1>Feedback</h1>
+        <a href="index.html">Tilbake til start</a>
+    </header>
+    <form action="#" method="POST">
+        <label for="name">Navn:</label>
+        <input type="text" id="name" name="name">
+        <label for="feedback">Din tilbakemelding:</label>
+        <textarea id="feedback" name="feedback"></textarea>
+        <button type="submit">Send</button>
+    </form>
+</body>
+</html>
