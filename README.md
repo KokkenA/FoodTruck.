@@ -141,3 +141,31 @@
     </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menyer og priser</title>
+</head>
+<body>
+    <header>
+        <h1>Menyer og priser</h1>
+        <a href="index.html">Tilbake til start</a>
+    </header>
+    <section>
+        <h2>Vår meny</h2>
+        <ul>
+            <li>Pasta Carbonara - 120kr</li>
+            <li>Pizza Margherita - 150kr</li>
+            <li>Sushi Combo - 200kr</li>
+        </ul>
+        <p>Du kan også laste opp bilder av retter her:</p>
+        <form action="#" method="POST" enctype="multipart/form-data">
+            <label for="upload">Last opp bilder:</label>
+            <input type="file" id="upload" name="dish-image" accept="image/*">
+            <button type="submit">Last opp</button>
+        </form>
+    </section>
+</body>
+</html>
