@@ -244,3 +244,25 @@
     </form>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ansatte</title>
+</head>
+<body>
+    <header>
+        <h1>Våre ansatte</h1>
+        <a href="index.html">Tilbake til start</a>
+    </header>
+    <section>
+        <h2>Teamet vårt</h2>
+        <ul>
+            <li>Maria Hansen - Kokk</li>
+            <li>Jonas Pettersen - Servitør</li>
+            <li>Anne Lunde - Daglig leder</li>
+        </ul>
+    </section>
+</body>
+</html>
