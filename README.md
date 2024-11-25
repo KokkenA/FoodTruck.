@@ -169,3 +169,26 @@
     </section>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bestill</title>
+</head>
+<body>
+    <header>
+        <h1>Bestill mat</h1>
+        <a href="index.html">Tilbake til start</a>
+    </header>
+    <form action="#" method="POST">
+        <label for="name">Navn:</label>
+        <input type="text" id="name" name="name" required>
+        <label for="order">Din bestilling:</label>
+        <textarea id="order" name="order" required></textarea>
+        <label for="date">Leveringsdato:</label>
+        <input type="date" id="date" name="date" required>
+        <button type="submit">Send bestilling</button>
+    </form>
+</body>
+</html>
