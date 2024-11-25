@@ -208,3 +208,18 @@
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.25251412134!2d10.550844755110968!3d59.91386880747767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416e61dc09d4ab%3A0x6d19f17e0d0c7f51!2sOslo!5e0!3m2!1sen!2sno!4v1630315029394!5m2!1sen!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dagens tilbud</title>
+</head>
+<body>
+    <header>
+        <h1>Dagens tilbud</h1>
+        <a href="index.html">Tilbake til start</a>
+    </header>
+    <p>Dagens spesialtilbud: 20% rabatt på alle pizzaretter!</p>
+</body>
+</html>
